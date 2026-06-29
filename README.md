@@ -10,7 +10,7 @@
 </p>
 
 <p>
-  <a href="https://github.com/Just-Bamford/sorokit-core/blob/main/LICENSE">
+  <a href="https://github.com/AnonVote/core/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License: MIT" />
   </a>
   <img src="https://img.shields.io/badge/typescript-%5E5.0-3178c6" alt="TypeScript" />
@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/runtime-node%20%7C%20browser-brightgreen" alt="Node + Browser" />
 </p>
 
-<p>Part of the <a href="https://github.com/Just-Bamford">sorokit</a> ecosystem.</p>
+<p>Part of the <a href="https://github.com/AnonVote">sorokit</a> ecosystem.</p>
 
 <br/>
 
